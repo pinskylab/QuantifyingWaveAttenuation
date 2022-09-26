@@ -1,0 +1,36 @@
+"Vegetation","Lab","Study","Location","Species","n","H1","Depth","Decay","Drag","R2"
+"Kelp","Field","Elwany et al. 1995","California","Macrocystis pyrifera",7,0.693,13,"NaN","0.0665",1
+"Kelp","Lab","Kobayashi et al. 1993/Asano et al. 1988","","NA",1,0.115,0.485,"0.035","0.0731",1
+"Kelp","Lab","Mendez & Losada 2004 (data from Dubi 1995)","","Laminaria hyperborea",6,0.138,0.633,"0.0253","0.111",0.63
+"Kelp","Field","Mork 1996","Norway","Laminaria hyperborea",0,NA,7.3,"NaN","NaN",NA
+"Kelp","Field","Rosman et al. 2007","Santa Cruz, CA","Macrocystis pyrifera",73,0.767,12,"NaN","1.28",1
+"Mangrove","Field","Massel et al. 1999","Australia","Rhizophora spp., Rhizophora spp. and Aegiceras spp.",0,NA,1.52,"NaN","NaN",NA
+"Mangrove","Field","Mazda et al. 1997","Vietnam","Kandelia candel",30,0.193,0.62,"0.000709","0.142",0.93
+"Mangrove","Field","Mazda et al. 2006","Vietnam","Sonneratia spp.",85,0.152,0.948,"NaN","2.72",1
+"Mangrove","Field","Quartel et al. 2007","Vietnam","Kandelia candel",91,0.146,1.05,"NaN","2.69",1
+"Mangrove","Field","Vo-Luong & Massel 2006; 2008","Vietnam","Avicennia spp., Rhizophora spp.",5,0.36,2.15,"NaN","0.416",0.93
+"Marsh","Field","Allen et al. 2008","Minnesota","Schoenoplectus acutus",0,0.186,1.5,"0.0377","NaN",NA
+"Marsh","Field","Bouma et al. 2005","Netherlands","Spartina anglica",3,0.05,1.16,"0.0252","0.679",0.87
+"Marsh","Lab","Bouma et al. 2005","","Spartina anglica, faux Spartina",6,0.0307,0.12,"0.402","3.46",1
+"Marsh","Lab","Bouma et al. 2010","","Spartina anglica, Puccinellia maritima",6,0.0671,0.2,"0.248","2.33",0.93
+"Marsh","Field","Cooper 2005","England","Puccinellia maritima, Salicornia europaea, Atriplex portulacoides, Spartina alterniflora, Atriplex portulacoides, Salicornia europaea",3,0.168,1.28,"NaN","0.845",1
+"Marsh","Field","Knutson et al 1982","Virginia","Spartina alterniflora",31,0.146,0.683,"NaN","10.1",1
+"Marsh","Field","Moller 2006","England","Spartina anglica, Salicornia spp., Spartina anglica, Salicornia spp., Suaeda maritima",26,0.0756,0.423,"NaN","2.58",1
+"Marsh","Field","Moller et al. 1999","England","Limonium vulgare, Aster tripolium, Atriplex portulacoides, Salicornia spp., Spartina spp., Suaeda maritima, Plantago maritima, Puccinellia maritima",10,0.331,1.35,"NaN","0.00649",0.98
+"Marsh","Field","Morgan et al. 2009 Estuaries and Coasts","New England, USA","Spartina alterniflora, Puccunellia maritima, Juncus gerardii, Spartina patens, Distichlis spicata",0,0.0791,NA,"0.143","NaN",NA
+"Marsh","Field","Shi et al. 2000","China","Scirpus mariqueter",1,0.0782,0.23,"NaN","0.0131",1
+"Marsh","Lab","Tschirky et al. 2001","","Scirpus validus",140,0.097,0.583,"0.0356","3.24",1
+"Marsh","Field","Wayne 1976","Florida","Spartina alterniflora",0,0.0384,0.305,"NaN","NaN",NA
+"Marsh","Field","Yang 1998","China","Scirpus mariqueter",0,0.057,0.23,"0.33","NaN",NA
+"Marsh","Field","Yang et al. 2008 ECSS","Yangtze Delta, China","Spartina alterniflora and Scirpus mariqueter",0,0.343,0.42,"NaN","NaN",NA
+"Seagrass","Lab","Bouma et al. 2005","","Zostera noltii, faux Zostera",3,0.032,0.12,"0.141","0.456",1
+"Seagrass","Field","Bradley & Houser 2009","Florida","Thalassia testudinum",3,0.0566,0.95,"NaN","4.37",0.94
+"Seagrass","Lab","Cox et al. 2003","","Faux Posidonia australis",38,0.0449,0.427,"0.0567","3.06",1
+"Seagrass","Lab","Fonseca & Cahalan 1992","","Halodule wrightii, Thalassia testudinum, Zostera marina, Syringodium filiforme",25,0.035,0.142,"0.311","4.87",1
+"Seagrass","Field","Huber 2003","Maryland","Zostera marina",16,0.135,0.544,"0.00093","0.0783",1
+"Seagrass","Field","Koch 1996","Florida","Thalassia testudinum",0,NA,0.55,"NaN","NaN",NA
+"Seagrass","Lab","Ota et al. 2004","","Artificial seaweed",2,0.11,0.45,"0.339","3.89",0.9
+"Seagrass","Field","Prager & Halley 1999","Florida","Thalassia testudinum",0,0.123,1.8,"NaN","NaN",NA
+"Seagrass","Lab","Price et al. 1968","","NA",0,0.0754,0.0439,"NaN","NaN",NA
+"Seagrass","Lab","Wallace & Cox 2000","","Faux Posidonia australis",7,0.03,0.366,"0.0291","0.845",1
+"Seagrass","Field","Wayne 1976","Florida","Thalassia testudinum",0,0.227,0.7,"NaN","NaN",NA
